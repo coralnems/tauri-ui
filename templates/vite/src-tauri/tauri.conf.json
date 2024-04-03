@@ -24,7 +24,8 @@
         "width": 1300
       }
     ],
-    "withGlobalTauri": false
+    "withGlobalTauri": false,
+    "macOSPrivateApi": true
   },
   "bundle": {
     "active": true,

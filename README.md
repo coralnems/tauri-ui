@@ -7,7 +7,7 @@
 <br>
 
 Create modern Tauri desktop apps in just a few simple steps. Tauri UI Templates is a starting point for building modern desktop applications with web technologies with using [shadcn/ui](https://github.com/shadcn/ui), [Tauri](https://github.com/tauri-apps/tauri).
-
+</div>
 > _You can download pre-built final bundles from the [Releases](https://github.com/agmmnn/tauri-ui/releases) section._
 
 ## Getting Started
